@@ -1,0 +1,25 @@
+
+.info{
+    margin: 3%;
+}
+.info h1{
+    color: #00008B;
+    margin-left: 2%;
+}
+.info p {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight : 400;
+    font-family: Roboto,Arial,sans-serif;
+}
+.formulaire{
+  margin-top: 5%;
+  margin-left: 30%;
+    width: 600px;
+    height: 600px;
+    
+}
+.cadre{
+    border:solid black;
+    padding: 2%;
+}
